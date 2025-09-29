@@ -13,7 +13,7 @@ This repository contains Jupyter notebooks for learning and experimenting with L
 
 1. **Clone the repository**
    ```zsh
-   git clone <repo-url>
+   git clone https://github.com/KalyanKumarPichuka/langchain-course.git
    cd langchain-course
    ```
 2. **Install Python and Jupyter**
